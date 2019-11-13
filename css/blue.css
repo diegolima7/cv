@@ -158,7 +158,7 @@ a:hover {
 }
 
 h1  {
-	width:4000px;
+	width:400px;
 	font-size:42px;
 	color:#1b4491;
 	margin-bottom:3px;
@@ -170,7 +170,7 @@ h1 span {
 	font-size:21px;
 	display:block;
 	color:#1b4491;
-	margin-top:-5px;
+	margin-top:0px;
 }
 
 h2 {
@@ -438,6 +438,7 @@ img.portrait {
 	height:25px;
 	display:block;
 	margin-top:-2px;
+	width: max-content;
 }
 
 /* SOCIAL ICONS */
